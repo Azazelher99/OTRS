@@ -4,7 +4,7 @@
 ### ¿Que es OTRS?
 OTRS es un sistema de gestión de tickets y procesos, moderno y flexible, que permite a los profesionales de la gestión de servicios, de cualquier industria, mantenerse al día con el entorno empresarial actual orientado a resultados.
 
-![imagen](imagenes/imagen-logo)
+![imagen](imagenes/imagen-logo.JPG)
 
 ### Características
 OTRS puede usarse para atender solicitudes de usuarios recibidas por vía telefónica o por correo electrónico. Es una aplicación que puede instalarse en servidores locales o en la nube y ser utilizada a través de su interfaz web. Maneja conexiones seguras, se conecta a servidores de correo Postfix para enviar correos, y se basa en otras herramientas de software libre como MySQL, Apache2 y Procmail. Para el caso de instalación en la nube, el sitio Turnkey ofrece respaldos de servidores preconfigurados que pueden utilizarse para instalar rápidamente un servicio OTRS.
