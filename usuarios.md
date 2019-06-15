@@ -3,7 +3,7 @@
 
 ### Crear agentes
 
-Lo primero es ir a **admin** 
+Lo primero es ir a **admin**.
 
 ![imagen0](imagenes/Captura4.JPG)
 
