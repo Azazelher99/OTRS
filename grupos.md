@@ -18,3 +18,4 @@ A continuación le damos la informacion para el grupo y le damos a save.
 
 Por ultimo es seleccionar los agentes y los permisos.
  
+![imagen2](imagenes/Captura17.JPG)
