@@ -1,7 +1,7 @@
 # OTRS
 Helpdesk OTRS
 
-* [Introducción](introduccion)
+* [Introducción](introduccion-otrs)
 * [Instalación](instalacion)
 * [Crear agentes](usarios)
 * [Crear grupos](grupos)
