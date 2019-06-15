@@ -9,7 +9,7 @@ Ahora vamos a crear campos dinamicos para una mejor gestión.Nos vamos a **admin
 
 Bueno lo primero es seleccionar el tipo de ticket que queremos.
 
-![imagen1](imagenes/captura6.JPG)
+![imagen1](imagenes/Captura6.JPG)
 
 Despues establecemos los datos que nos pide la tabla y los valores que coge o su clave.
 

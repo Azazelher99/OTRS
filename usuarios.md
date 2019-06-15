@@ -4,11 +4,12 @@
 ### Crear agentes
 
 Lo primero es ir a **admin** 
+
 ![imagen0](imagenes/Captura4.JPG)
 
 Despues tenemos que al icono que muestra la imagen.
 
-![imagen1](imagenes/captura10.JPG)
+![imagen1](imagenes/Captura10.JPG)
 
 Le damos al icono de **Add Agent**.
 

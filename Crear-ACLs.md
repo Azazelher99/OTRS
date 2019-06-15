@@ -11,7 +11,7 @@ Como en todos las cosas que hemos explicado en estos informes, tenemos que ir a 
 
 Despues es darle al icono de **Create New ACL** para crear la lista.
 
-![imagen1](imagenes/captura21.JPG)
+![imagen1](imagenes/Captura21.JPG)
 
 Reñenamos los datos, los permisos, etc. Que queremos darle a los usuarios.
 

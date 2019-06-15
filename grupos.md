@@ -10,7 +10,7 @@ Lo primero es ir a **admin** y seleccionar el icono que se indica en la imagen.
 
 Hacemos click sobre el icono de **Add Group**.
 
-![imagen1](imagenes/captura15.JPG)
+![imagen1](imagenes/Captura15.JPG)
 
 A continuación le damos la informacion para el grupo y le damos a save.
 
