@@ -3,18 +3,18 @@
 
 ### Crear campos dinamicos
 
-Lo primero que vamos a hacer crear un correo comercial que vamos a tener que  utilizar mas adelante para poder utilizar OTRS.
+Ahora vamos a crear campos dinamicos para una mejor gestión.Nos vamos a **admin** y seleccionamos el icono que se muestra.
 
-![imagen0](imagenes/Captura2.JPG)
+![imagen0](imagenes/Captura5.JPG)
 
-El siguiente paso es entrar al buscador y entrar en la pagina oficial de OTRS que es (https://otrs.com/es/home/) y le damos al icono de prueba gratis.
+Bueno lo primero es seleccionar el tipo de ticket que queremos.
 
-![imagen1](imagenes/captura0.JPG)
+![imagen1](imagenes/captura6.JPG)
 
-Nos va a pedir que reñenemos esta tabla con nuestros datos personales.
+Despues establecemos los datos que nos pide la tabla y los valores que coge o su clave.
 
-![imagen2](imagenes/Captura.JPG)
+![imagen2](imagenes/Captura7.JPG)
 
-Cuando terminamos nos enviara un correo con los datos de la cuenta y una url para que nos lleve a OTRS para iniciar seccion.
+En la siguiente iamgen e puesto un campo creado llamado **hola** el cual cree para monstrar el resultado final.
  
-![imagen3](imagenes/Captura3.JPG)
+![imagen3](imagenes/Captura8.JPG)

@@ -11,7 +11,7 @@ OTRS puede usarse para atender solicitudes de usuarios recibidas por vía telef�
 
 
 ### Asignación precisa. Notificación rápida.
-OTRS cuenta con herramientas integradas para la gestión de roles y autorizaciones, para una persona o un equipo entero, que garantizan que las solicitudes son asignadas al departamento de forma rápida y con toda la información relacionada con las tareas incluida
+OTRS cuenta con herramientas integradas para la gestión de roles y autorizaciones, para una persona o un equipo entero, que garantizan que las solicitudes son asignadas al departamento de forma rápida y con toda la información relacionada con las tareas incluida.
 
 Los tiempos de respuesta rápidos son críticos, por lo que OTRS garantiza que las consultas no desaparezcan o permanezcan sin respuesta. Las notificaciones, los recordatorios y los procesos de gestion de escalación garantizan la evaluación y un procesamiento rápido de las solicitudes. Incluso el solicitante del servicio puede ser notificado del estado del proceso de su ticket en cualquier momento.
 

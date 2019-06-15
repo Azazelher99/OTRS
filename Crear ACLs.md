@@ -3,18 +3,21 @@
 
 ### Crear ACLs
 
-<!--Buscar infromacion sobre lo que es un ACLs--> 
+Bueno un ACL es una lista que especifica los permisos de los usuarios sobre un archivo, carpeta u otro objeto. Un ACL define cuales usuarios y cuales grupos pueden accesar y que tipo de operaciones pueden realizar una vez dentro.
 
-![imagen0](imagenes/Captura2.JPG)
+Como en todos las cosas que hemos explicado en estos informes, tenemos que ir a **admin** y seleccionar el icono que muestra la lustracion.
 
-El siguiente paso es entrar al buscador y entrar en la pagina oficial de OTRS que es (https://otrs.com/es/home/) y le damos al icono de prueba gratis.
+![imagen0](imagenes/Captura20.JPG)
 
-![imagen1](imagenes/captura0.JPG)
+Despues es darle al icono de **Create New ACL** para crear la lista.
 
-Nos va a pedir que reñenemos esta tabla con nuestros datos personales.
+![imagen1](imagenes/captura21.JPG)
 
-![imagen2](imagenes/Captura.JPG)
+Reñenamos los datos, los permisos, etc. Que queremos darle a los usuarios.
 
-Cuando terminamos nos enviara un correo con los datos de la cuenta y una url para que nos lleve a OTRS para iniciar seccion.
+
+![imagen2](imagenes/Captura22.JPG)
+
+Esta ultima imagen es el resultado de una lista que he creado para monstrar el resultado.
  
-![imagen3](imagenes/Captura3.JPG)
+![imagen3](imagenes/Captura24.JPG)
